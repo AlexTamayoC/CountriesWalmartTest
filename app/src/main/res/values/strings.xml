@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CountriesApp</string>
+    <string name="error_message">An error occurred. Please try again later.</string>
+</resources>
