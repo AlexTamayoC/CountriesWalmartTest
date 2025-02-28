@@ -11,6 +11,6 @@ class CountryViewHolder(
     fun bindToView(country: Country) {
         item.countryName.text = country.name+",   "
         item.countryCode.text = country.code
-        item.countryRegion.text = country.region
+        item.countryRegion.text = country.region+",   "
         item.countryCapital.text = country.capital
     }}
